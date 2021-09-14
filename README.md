@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wormjoo/wormjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=C8EDF5&height=200&animation=fadeIn&section=header&text=wormjoo💻&fontSize=70)
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=C8EDF5&height=200&animation=fadeIn&section=header&text=wormjoo💻&fontSize=70)<br>
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+  
   🛠 Tech Stack 🛠<br>
 
   Techs that I've used at least once<br>
